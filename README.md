@@ -1,4 +1,4 @@
-# deep_learning_assignment_3
+# DL-segmentation-classification
 Deep learning based image segmentation and classification
 
 This repository contains the pytorch code used for a the final project in the course Deep Learning in Image Analysis at Uppsala Universitet 2021
