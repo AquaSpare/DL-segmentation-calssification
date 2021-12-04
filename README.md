@@ -3,9 +3,9 @@ Deep learning based image segmentation and classification
 
 This repository contains the pytorch code used for a the final project in the course Deep Learning in Image Analysis at Uppsala Universitet 2021
 
-1. First problem is about classification of hand-written digits using a convolutional neural network on the MNIST dataset, several models are evaluated
+1. First problem is classification of hand-written digits using a convolutional neural network on the MNIST dataset, several models and pytorch optimisers are tested fo achive the best performance
 
-2. Second problem is in semantic segmentation of biomedical images using a UNET model architecture on the WARWICK dataset
+2. Second problem is in semantic segmentation of biomedical images using a UNET model architecture on the WARWICK dataset. Models are evaluated using Sørensen–Dice coefficient. Several network designs are tested, including skip connections and residual connections
 
 Information about the MNIST dataset: The MNIST dataset consists of 60000 training images, and 10000 test images. The dataset has become a classic benchmark dataset for machine learning; do checkout the http://yann.lecun.com/exdb/mnist/ page for some context. All images are 28x28 pixels and stored in the png-file format.
 
