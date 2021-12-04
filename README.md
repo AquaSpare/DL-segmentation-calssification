@@ -1,7 +1,7 @@
 # deep_learning_assignment_3
 Deep learning based image segmentation and classification
 
-This repository contains the pytorch code used for a the final project in the course Deep Learning in Image Analysis at Uppsala Universitet
+This repository contains the pytorch code used for a the final project in the course Deep Learning in Image Analysis at Uppsala Universitet 2021
 
 1. First problem is about classification of hand-written digits using a convolutional neural network on the MNIST dataset, several models are evaluated
 
